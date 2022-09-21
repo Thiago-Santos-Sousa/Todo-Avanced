@@ -1,8 +1,8 @@
-# NLW Esports
+# Todo Avanced
 
 ![preview](./img/Todo.jpg)
 
-> Trilha Explore
+> Hora de Codar
 
 Projeto Todo, desenvolvido com javascript, HTML e CSS, focado em amarzenar itens inseridos pelo usuário, projeto ministrado pelo Matheus Battisti no canal hora de codar.
 
