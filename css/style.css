@@ -16,7 +16,7 @@ body{
 button{
   background-color: #FDFDFD;
   color: #102f5e;
-  border: 1px solid #000;
+  border: 1px solid #102f5e;
   padding: .3rem .6rem;
   font-size: 1rem;
   cursor: pointer;
